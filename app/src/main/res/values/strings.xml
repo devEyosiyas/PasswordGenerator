@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Password Generator</string>
+    <string name="generate">Generate</string>
+    <string name="copy">Copy</string>
+</resources>
